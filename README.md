@@ -1,0 +1,2 @@
+# sharedlibs
+testing shared library
